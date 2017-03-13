@@ -5,7 +5,7 @@ public class StrategyDriver
 	
 	public static void main(String[] args)
 	{
-		int games = 10000;
+		int games = 1000;
 		
 		anal(games, new ProbabilityStrategy(), true);
 	}
