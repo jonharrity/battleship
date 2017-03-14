@@ -16,7 +16,7 @@ java engine/StrategyDriver
 Running with 500000 games produced the output:
 
 --Player evaluator--  
-Games: 10000  
+Games: 500000  
 Min turns: 19  
 Max turns: 71  
 Average turns: 44.0981  
