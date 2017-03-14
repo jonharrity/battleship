@@ -9,20 +9,21 @@ engine/ProbabilityStrategy.java contains the actual AI class. The script in engi
 
 To quickly compile & run the code to test the AI, use these commands from the main folder after cloning: 
 
-javac engine/*  \n
+javac engine/*
+
 java engine/StrategyDriver
 
 
 Running with 500000 games produced the output:
 
---Player evaluator--  \n
-Games: 10000  \n
-Min turns: 19  \n
-Max turns: 71  \n
-Average turns: 44.0981  \n
-Time took: 6465 milliseconds 
+--Player evaluator--  
+Games: 10000  
+Min turns: 19  
+Max turns: 71  
+Average turns: 44.0981  
+Time took: 6465 milliseconds  
 
 
+This project was outlined by M. Gerb, Centennial High School.
 
-This project was outlined by M. Gerb, Centennial High School.  \n
 The code and AI was written by Jon Harrity.
