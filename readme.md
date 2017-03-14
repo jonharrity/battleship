@@ -9,8 +9,7 @@ engine/ProbabilityStrategy.java contains the actual AI class. The script in engi
 
 To quickly compile & run the code to test the AI, use these commands from the main folder after cloning: 
 
-javac engine/*
-
+javac engine/*  
 java engine/StrategyDriver
 
 
