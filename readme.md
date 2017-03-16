@@ -1,4 +1,4 @@
-#Battleship AI
+# Battleship AI
 
 For information about the gameplay and rules followed by this project, see the wikipedia page at:
 https://en.wikipedia.org/wiki/Battleship_(game)
